@@ -1,2 +1,2 @@
 # hello-world
-training in Git
+I'm training in Git and just following instructions.  
